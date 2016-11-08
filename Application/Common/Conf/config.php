@@ -1,0 +1,22 @@
+<?php
+return array (
+  'DB_TYPE' => 'mysql',
+  'DB_HOST' => 'localhost',
+  'DB_NAME' => 'carshop',
+  'DB_USER' => 'root',
+  'DB_PWD' => 'root',
+  'DB_PORT' => 3306,
+  'DB_PREFIX' => 'cs_',
+  'DB_CHARSET' => 'utf8',
+  'DOMAIN' => 'www.rooter.pw',
+  'TITLE' => '鲁特汽车租赁网',
+  'KEYWORDS' => '鲁特汽车租赁网',
+  'DESCRIPTION' => '鲁特汽车租赁网 汽车租赁',
+  'EMAIL' => '757501172@qq.com',
+  'CONTACT' => 'langhuaili',
+  'FAX' => '12456585',
+  'PHONE' => '1378165***',
+  'ICP' => '粤2838234号',
+  'COPY' => '鲁特汽车租赁',
+  'ADDRESS' => '广州市天河区',
+); ?>
